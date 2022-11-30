@@ -74,6 +74,20 @@ false and b= false
 
 " " and 6
 
+1.6 or " "
+
+" " or 2.5
+
+bool(" ")
+
+bool([1,2,3])
+
+
+" " and 0
+
+#shortcircuiting
+
+
 
 
  
